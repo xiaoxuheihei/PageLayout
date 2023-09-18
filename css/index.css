@@ -1,0 +1,22 @@
+div {
+    background-color: #b7dbc9;
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+    border-radius: 10px;
+
+}
+
+p a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #b7dbc9;
+}
+
+p {
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+    position: relative;
+    top: 0px;
+}

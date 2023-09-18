@@ -1,0 +1,36 @@
+.main {
+    margin: 0 auto;
+    width: 1300px;
+    height: 600px;
+}
+
+.aside {
+    background-color: #dfebc6;
+    width: 200px;
+    height: 550px;
+    border-radius: 10px;
+    float: left;
+}
+
+aside {
+    background-color: #f7d4ba;
+    width: 1100px;
+    height: 550px;
+    border-radius: 10px;
+    float: right;
+
+}
+
+p a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #b7dbc9;
+}
+
+p {
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+    position: relative;
+    top: 50px;
+}
